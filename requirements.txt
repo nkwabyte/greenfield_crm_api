@@ -1,0 +1,32 @@
+django==5.1.6
+djangorestframework
+psycopg2-binary
+PyJWT
+python-dotenv
+django-cors-headers
+firebase-admin
+dj-database-url
+
+djangorestframework
+djangorestframework-simplejwt
+django-extensions
+django-filter
+django-simple-history
+django-unfold
+unfold
+djangorestframework
+djangorestframework-jsonapi
+djangorestframework_simplejwt
+
+# Async Tasks
+celery
+redis
+
+# Security
+django-cors-headers
+django-ratelimit
+django-secure
+django-cryptography
+django-csp
+django-redis
+drf-spectacular[sidecar]\nfirebase-admin==6.5.0\n
