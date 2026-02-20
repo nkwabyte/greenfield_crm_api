@@ -4,7 +4,6 @@ psycopg2-binary
 PyJWT
 python-dotenv
 django-cors-headers
-firebase-admin
 dj-database-url
 
 djangorestframework
@@ -29,4 +28,4 @@ django-secure
 django-cryptography
 django-csp
 django-redis
-drf-spectacular[sidecar]\nfirebase-admin==6.5.0\n
+\nsupabase==2.10.0\n
